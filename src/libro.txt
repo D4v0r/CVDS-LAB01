@@ -1,9 +1,7 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
 
-AUTORES:
-
-
+AUTORES: Davor
 
 
 
