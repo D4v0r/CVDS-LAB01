@@ -110,3 +110,10 @@ ___
     ```
 
 
+### GIT Branching
+---
+1. Main
+   ![](main.png)
+
+2. Remote
+   ![](remote.png)
